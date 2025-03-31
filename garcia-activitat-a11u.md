@@ -1,1 +1,6 @@
 # Repositori practica
+
+# Llista
+- Element 1  
+- Element 2  
+- Element 3  
